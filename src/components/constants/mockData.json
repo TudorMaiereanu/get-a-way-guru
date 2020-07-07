@@ -1,0 +1,549 @@
+{
+    "cities": [
+        {
+            "locationName": "Avignon",
+            "locationLat": "43.949318",
+            "locationLong": "4.805528",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,4,6,8,6,5,4,9,5,5,5,10,5],
+            "population": "92,000",
+            "locationCountryName": "France",
+            "locationDescription": "Avignon charms visitors with its ancient streets, restored medieval ramparts and the immense Gothic architecture of the Palais des Papes (Palace of Popes—the papacy was based here in the 14th century). The annual Festival d'Avignon, a major arts festival, attracts hundreds of thousands of visitors for theater, dance, film and street performances.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "May I transit this country? No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://img.travelawaits.com/filter:centercrop/quill/d/f/3/0/d/e/df30de52f1015a2707063d76b820f19413058cc8.jpg?w=800&h=800"
+        },
+        {
+            "locationName": "Barcelona",
+            "locationLat": "41.378999",
+            "locationLong": "2.139914",
+            "hasHike": "0",
+            "hasSurf": "1",
+            "costValue": "High",
+            "weatherList": [5,5,4,9,9,6,6,6,9,6,6,6,9,6],
+            "population": "5,500,000",
+            "locationCountryName": "Spain",
+            "locationDescription": "Bustling markets, tree lined blocks, and fantastical architecture cozy up to one another in this dreamy Mediterranean beach town. Paella and pintxos bars, exceptional seafood, standout local wines, a world-class arts scene, and bumping nightlife, Barcelona effortlessly blends the history of its districts with a healthy appetite for the new.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "Passengers transiting the country with symptoms compatible with COVID-19 will be submitted to health controls.",
+                "third": "The use of mask is required on public roads, outdoor spaces and inside public places where it is not possible to guarantee the maintenance of a safety distance of at least 1.5 meters."
+            },
+            "image": "https://www.hotelartsbarcelona.com/app/uploads/2017/12/Top-10-cosas-que-hacer-en-brcelona-blog_post-mobile.jpg",
+            "image2": "https://cms.finnair.com/resource/blob/737902/a62374add1125b1ebdcfd6af3de559ca/barcelona-main-data.jpg?impolicy=crop&width=1941&height=1941&x=1463&y=725&imwidth=768",
+            "image3": "https://images.theconversation.com/files/292421/original/file-20190913-8661-g1qajv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"
+        },
+        {
+            "locationName": "Bayonne",
+            "locationLat": "43.493401",
+            "locationLong": "-1.474570",
+            "hasHike": "0",
+            "hasSurf": "1",
+            "costValue": "High",
+            "weatherList": [3,4,4,6,8,5,6,6,6,6,7,6,6,6],
+            "population": "51,000",
+            "locationCountryName": "France",
+            "locationDescription": "As the capital of the French Basque Country, Bayonne is typical of the region’s cross-cultural charms. A jumble of narrow townhouses adorned with colorful shutters line the riversides, while the mazelike old town is dotted with terrace cafés, street markets, and chocolatiers.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://farm66.staticflickr.com/65535/49463469842_57d3ae4783_b.jpg",
+            "image2": "https://farm66.staticflickr.com/65535/49463469842_57d3ae4783_b.jpg",
+            "image3": "https://media-cdn.tripadvisor.com/media/photo-s/10/37/df/75/la-nive-bayonne.jpg"
+        },
+        {
+            "locationName": "Bordeaux",
+            "locationLat": "44.837876",
+            "locationLong": "-0.579920",
+            "hasHike": "0",
+            "hasSurf": "1",
+            "costValue": "High",
+            "weatherList": [4,3,4,6,10,5,6,6,6,6,6,6,9,6],
+            "population": "250,000",
+            "locationCountryName": "France",
+            "locationDescription": "After many years of hard work, the \"Sleeping Beauty\" has awoken from its slumber. The city is beautifully restored and has an ultra-modern public transport system. The “Port of the Moon” is also now a UNESCO World Heritage Site. The Stone Bridge, with its 17 arches, crosses the Garonne, offering pedestrians a lovely view over the docks and harbor. Take a stroll through old Bordeaux in the Triangle d'Or and stop at Place des Quinconces, France’s largest public square. The city of Bordeaux is an ideal base for exploring the greater wine region’s unforgettable sights and tastes.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "It is mandatory to wear masks in closed spaces, including means of transport, and in any situation where it's not possible to guarantee the interpersonal safety distance.\nAre arrangements for “closed door” (i.e. organised coach tours without intermediate pickup) tourism packages available? No"
+            },
+            "image": "https://scontent-ber1-1.xx.fbcdn.net/v/t1.0-9/61198168_2744366985579380_2689799925696299008_o.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=iPeR17OEsUUAX9r-NRe&_nc_ht=scontent-ber1-1.xx&oh=f07dcf984ed8f3a6c878d37c70a754a2&oe=5F23A885",
+            "image2": "https://dtngh3spc2o8h.cloudfront.net/picture/4338eca3-6883-4ddd-abc3-ceedce97487b?w=800&h=800&fit=crop",
+            "image3": "https://www.visiter-bordeaux.com/sites/default/files/styles/image_produit_teaser/public/media/image/Bordeaux%20CityPass%20-%20Porte%20Cailhau.jpg?itok=oEBHKKwL"
+        
+        },
+        {
+            "locationName": "Bozen",
+            "locationLat": "46.496722",
+            "locationLong": "11.358303",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,5,5,5,5,5,4,5,6,4,5,5,6,6],
+            "population": "107,000",
+            "locationCountryName": "Italy",
+            "locationDescription": "The capital of Italy’s northernmost region of South Tyrol, Bolzano (Bozen in German) has only been Italian since World War I, and its character remains distinctly Germanic. At the center of the town, Piazza Walther is named for a 13th-century German minstrel. The town’s most famous resident, Ötzi the Iceman, dates from about 3300 BC and now rests at the South Tyrol Museum of Archaeology. The striking new building for Museion, the city’s modern and contemporary art museum, opened in 2008.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "Travelling to and from the following countries is permitted: Member States of the European Union, countries that are parties to the Schengen Agreement, United Kingdom, Andorra, Monaco, Vatican City State and the Republic of San Marino. From 3 June, mandatory fiduciary isolation is required for those who, although coming from one of the listed countries, in the 14 days prior to their arrival in Italy have also been in countries other than those listed.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://www.bergwelten.com/files/touren/header/von-der-seceda-durch-das-cuecenatal-nach-st-ulrich-10229-0.jpg"
+        },
+        {
+            "locationName": "Ceret",
+            "locationLat": "42.485950",
+            "locationLong": "2.748826",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,5,6,7,5,6,5,6,6,6,6,8,5],
+            "population": "8,000",
+            "locationCountryName": "France",
+            "locationDescription": "Spiking the skyline for 430km along the Franco-Spanish border, the snow-dusted Pyrenees offer a glimpse of France’s wilder side. This serrated chain of peaks contains some of the country's most pristine landscapes and rarest wildlife, including endangered species such as the griffon vulture, izard (a type of mountain goat) and brown bear. Since 1967, 457 sq km has been protected as the Parc National des Pyrénées, ensuring its valleys, tarns and mountain pastures are preserved for future generations.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://pbs.twimg.com/media/D6MA5NyUIAAy10v.jpg"
+        },
+        {
+            "locationName": "Chamonix",
+            "locationLat": "45.917359",
+            "locationLong": "6.867023",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [5,4,4,5,7,6,5,5,6,4,6,6,6,6],
+            "population": "9,000",
+            "locationCountryName": "France",
+            "locationDescription": "As host of the first Winter Olympics in 1924, Chamonix will always have a place in the history books. Its main attractions are Mont-Blanc (Western Europe's tallest mountain) and the many ski areas that face the Chamonix Valley. Steep slopes and extreme weather conditions suit advanced skiers best, but there are also runs for beginners. Just make sure everyone in your party knows a green circle from a black diamond. Oh, and another note for the history books—Pierce Brosnan was here (filming a James Bond movie, The World Is Not Enough).",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://i.pinimg.com/originals/bc/74/6d/bc746d6578a60cee4c35bdc5410ce44c.jpg"
+        },
+        {
+            "locationName": "Colmar",
+            "locationLat": "48.072474",
+            "locationLong": "7.346901",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,4,6,6,5,6,7,6,4,6,5,5,5],
+            "population": "70,000",
+            "locationCountryName": "France",
+            "locationDescription": "Colmar is a photographer's dream, with its labyrinth of cobbled lanes, flower-lined canals, and timber-framed houses painted in a rainbow of pastel hues. It's the quintessential Alsatian town, brimming with traditional restaurants and surrounded by vineyards and medieval castles.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://st.depositphotos.com/1420973/4185/i/950/depositphotos_41856731-stock-photo-colmar-petit-venice-bridge-water.jpg"
+        },
+        {
+            "locationName": "Digne",
+            "locationLat": "43.847729",
+            "locationLong": "6.511940",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,4,6,9,9,6,6,6,5,6,6,6,5],
+            "population": "16,000",
+            "locationCountryName": "France",
+            "locationDescription": "At the eastern end of the gorges, Castellane is a run-of-the-mill town, teeming with visitors in summer and all but deserted out of season.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://media0.trover.com/T/5570be118e7cb274b30018ed/fixedw.jpg"
+        },
+        {
+            "locationName": "Geneva",
+            "locationLat": "46.210554",
+            "locationLong": "6.143020",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [5,4,4,6,7,6,4,5,6,5,5,6,6,6],
+            "population": "499,000",
+            "locationCountryName": "Switzerland",
+            "locationDescription": "The shores of Lake Geneva have attracted visitors and invaders for millennia. The cheerful city of Geneva sits on the lake's western shore, lofty snowcapped peaks creating a gorgeous backdrop on all sides. The city is perfect for exploring on foot; rent a bike to venture further. The top of any itinerary should be visits to Geneva's lakefront and its famed water fountain, the Flower Clock in the English Garden, St. Peter's Cathedral, Reformation Wall, Place Neuve and the birthplace of the U.N",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "For all EU/EFTA member States as well as UK the free movement of person is restored. As from 15 June, temperature checks will be carried out on all passengers arriving on direct flights from Sweden.",
+                "third": "No, however the use of masks is strongly recommended in places where physical distancing of 2 metres cannot be observed, such as in public transport."
+            },
+            "image": "https://www.tcs.ch/mam/Digital-Media/Images/Photos/weblication/wThumbnails/nirgends-wird-teurer-um-den-job-gestritten-als-in-genf-6791086a04aa39fg3bcca5c0630bc8a2.jpeg"
+        },
+        {
+            "locationName": "Genoa",
+            "locationLat": "44.406642",
+            "locationLong": "8.946882",
+            "hasHike": "0",
+            "hasSurf": "1",
+            "costValue": "High",
+            "weatherList": [4,5,4,6,6,6,6,6,7,6,7,6,6,6],
+            "population": "590,000",
+            "locationCountryName": "Italy",
+            "locationDescription": "Wandering the narrow caruggi alleyways of Genoa is a bit like solving a medieval labyrinth. In the heart of the Italian port city lies Piazza de Ferrari, a main square with a beautiful fountain and a perimeter lined with historic buildings, including the Palace of the Doges the Teatro Carlo Felice, which was destroyed during WWII and subsequently rebuilt. The seaside neighborhood of Boccadasse is vision of pink and yellow buildings that brighten up this lovely fishing village.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "Travelling to and from the following countries is permitted: Member States of the European Union, countries that are parties to the Schengen Agreement, United Kingdom, Andorra, Monaco, Vatican City State and the Republic of San Marino. From 3 June, mandatory fiduciary isolation is required for those who, although coming from one of the listed countries, in the 14 days prior to their arrival in Italy have also been in countries other than those listed.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://github.com/TudorMaiereanu/get-a-way-backend/blob/master/images/Genoa1.jpg?raw=true",
+            "image2": "https://github.com/TudorMaiereanu/get-a-way-backend/blob/master/images/Genoa2.jpg?raw=true",
+            "image3": "https://github.com/TudorMaiereanu/get-a-way-backend/blob/master/images/Genoa3.jpg?raw=true"
+        },
+        {
+            "locationName": "Girona",
+            "locationLat": "41.987343",
+            "locationLong": "2.826289",
+            "hasHike": "0",
+            "hasSurf": "1",
+            "costValue": "High",
+            "weatherList": [4,4,4,7,6,6,6,6,9,6,6,7,6,6],
+            "population": "760,000",
+            "locationCountryName": "Spain",
+            "locationDescription": "One of the most historic sites in Spain, Girona lies in northeast Catalonia, just 99 km (62 mi) from Barcelona. Founded by Romans, the city later was taken over by Moors and Franks before finally falling under the rule of Barcelona. Influenced by different cultures and religions, the city beckons visitors with beautiful architecture. The Old and New Town offer many opportunities to pleasurably get lost and observe local life and culture.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "Travelling to and from the following countries is permitted: Member States of the European Union, countries that are parties to the Schengen Agreement, United Kingdom, Andorra, Monaco, Vatican City State and the Republic of San Marino. From 3 June, mandatory fiduciary isolation is required for those who, although coming from one of the listed countries, in the 14 days prior to their arrival in Italy have also been in countries other than those listed.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://pyxis.nymag.com/v1/imgs/896/0c3/3fcb4fd4813aac5aab71d76edccc943353-barcelona-girona.2x.rsquare.w536.jpg"
+        },
+        {
+            "locationName": "Lyon",
+            "locationLat": "45.760547",
+            "locationLong": "4.861118",
+            "hasHike": "0",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,4,6,6,5,5,6,5,4,6,6,6,6],
+            "population": "513,000",
+            "locationCountryName": "France",
+            "locationDescription": "A UNESCO World Heritage Site, Lyon has 2,000 years of history imprinted on its streets (yes, the cobblestone kind). Explore this history in Vieux Lyon (one of Europe's most extensive Renaissance neighborhoods) and Lyon's two Roman amphitheatres, which still stage rock concerts today. It's no wonder Lyon is a popular area for travelers, with its dynamic university, first-class shopping, antique markets, vibrant theatre and music festivals, and a range of interesting museums, such as the International Puppet Museum and the Museum of Miniatures and Film Sets. (When we say \"interesting,\" we mean it.)\n",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://images.mansionglobal.com/im-169605?width=1280&size=1"
+        },
+        {
+            "locationName": "Marseille",
+            "locationLat": "43.296482",
+            "locationLong": "5.369780",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,4,9,9,9,6,5,9,6,5,10,8,6],
+            "population": "270,000",
+            "locationCountryName": "France",
+            "locationDescription": "Travelers visit the port city of Marseille, the third largest city in France, for the meeting of style and history. The bay, flanked by Fort Saint-Nicolas, and Fort Saint-Jean shelters the Castle of If, from Count of Monte Cristo fame. Watched over by the basilica Notre-Dame-de-la-Garde, the city's pedestrian zones and shopping areas (including the colorful French-African quarter) mix with historical sites.Travelers looking for a fun time go to the OK Corral, a cowboy theme amusement park",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://s23514.pcdn.co/wp-content/uploads/2016/06/IMG_20160623_094805.jpg",
+            "image2": "https://i.pinimg.com/originals/d6/d8/1b/d6d81b486dbf1d7aea4337c7defd988c.jpg",
+            "image3": "https://www.provence-info.de/wp-content/uploads/calanques-cassis.jpg"
+        },
+        {
+            "locationName": "Mayrhofen",
+            "locationLat": "47.163580",
+            "locationLong": "11.861360",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [3,4,3,5,7,6,4,6,5,5,5,5,7,7],
+            "population": "4,000",
+            "locationCountryName": "Austria",
+            "locationDescription": "Besides incredible ski conditions, Mayrhofen is known for its epic annual Snowbombing festival, a weeklong celebration of electronic music. The world’s premier DJs and electronic artists flock here to dance, party ski, and revel in Mayrhofen’s magical atmosphere. Where else in the world can you tour a cheese factory, show your snow art appreciation, embark upon a torch-lit evening hike and snuggle up in an igloo hotel, all in a single day?",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "Travelers from the following countries can enter or leave Austria without restrictions: Andorra, Belgium, Bulgaria, Denmark, Germany, Estonia, Finland, France, Greece, Ireland, Iceland, Italy, Croatia, Latvia, Liechtenstein, Lithuania, Luxembourg , Malta, Monaco, Netherlands, Norway, Poland, Romania, San Marino, Switzerland, Slovakia, Slovenia, Spain, Czech Republic, Hungary, Vatican and Cyprus.",
+                "third": "Yes, a mask must be worn in certain areas: In public transport and taxis, at events in closed rooms (except at the assigned seat), in cable cars and cogwheel trains, coaches and inside excursion boats, in pharmacies and at services, if the 1 meter distance cannot be maintained or no other protective measures (e.g. plexiglass pane) are available."
+            },
+            "image": "https://live.staticflickr.com/3552/13068744365_a1c1f68d77_b.jpg"
+        },
+        {
+            "locationName": "Mende",
+            "locationLat": "44.517899",
+            "locationLong": "3.498650",
+            "hasHike": "0",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,4,6,9,6,6,6,5,5,6,6,9,6],
+            "population": "12,000",
+            "locationCountryName": "France",
+            "locationDescription": "Dotted with hamlets and cut through by rivers and ravines, this expanse of protected landscape is famous for its biodiversity, with 2300 plant species and 2410 animal species so far recorded. Dry, hot and leafy, the Cévennes has more in common with Mediterranean lands than the Auvergne to its north. It's largely covered by forest, mostly beech, oak and sweet chestnut. Many animals that had disappeared from the area – including vultures, beavers, otters, roe deer and golden eagles – have been reintroduced, either by conservationists or by natural migration. In recognition of its precious natural assets, it’s been a Unesco Biosphere Reserve since 1985, and a World Heritage Site since 2011. Needless to say, it's a paradise for nature lovers and outdoorsy types.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://i.guim.co.uk/img/media/5ba7f42e4b29f40cde73ec04723b724f53f923ac/0_137_6000_3600/master/6000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1350a44f3fd33a42bd5bb6daaba9d350"
+        },
+        {
+            "locationName": "Milan",
+            "locationLat": "45.486836",
+            "locationLong": "9.203486",
+            "hasHike": "0",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [3,4,5,6,6,6,4,5,4,4,6,6,6,5],
+            "population": "1,350,000",
+            "locationCountryName": "Italy",
+            "locationDescription": "One of the world’s fashion capitals, Milan offers endless opportunities for chic shopping. Hit the artsy neighborhood of Brera for leather goods and Via Monte Napoleone for exclusive, expensive boutiques. The enchanting mosaics and glass vaults of Galleria Vittorio Emanuele II make shoppers feel like they’re wandering inside a painting. Take break from your spree to gape at the iconic Duomo, then grab tickets to a performance at La Scala. Post-opera, the Navigli district pulses with late-night activity.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "Travelling to and from the following countries is permitted: Member States of the European Union, countries that are parties to the Schengen Agreement, United Kingdom, Andorra, Monaco, Vatican City State and the Republic of San Marino. From 3 June, mandatory fiduciary isolation is required for those who, although coming from one of the listed countries, in the 14 days prior to their arrival in Italy have also been in countries other than those listed.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://i2-prod.mirror.co.uk/incoming/article10923710.ece/ALTERNATES/s1200c/Milan-Cathedral-at-sunrise.jpg"
+        },
+        {
+            "locationName": "Montpellier",
+            "locationLat": "43.604799",
+            "locationLong": "3.880717",
+            "hasHike": "0",
+            "hasSurf": "1",
+            "costValue": "High",
+            "weatherList": [4,4,4,9,9,6,5,6,6,6,5,5,9,6],
+            "population": "270,000",
+            "locationCountryName": "France",
+            "locationDescription": "Getting sick on vacation is a major drag, but if you have to be under the weather, Montpellier is an ideal place to do it. People have studied medicine here for centuries—the Moors established medical schools in the 9th century, and the Université Montpellier’s school of medicine was founded in 1220. Once the local docs give you a clean bill of health, explore the cathedral, mansions and opera house.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Centre_ville_de_Montpellier_%2828407697916%29.jpg"
+        },
+        {
+            "locationName": "Munich",
+            "locationLat": "48.137408",
+            "locationLong": "11.575453",
+            "hasHike": "1",
+            "hasSurf": "1",
+            "costValue": "High",
+            "weatherList": [4,4,3,5,6,6,5,5,6,4,6,6,6,7],
+            "population": "1,400,000",
+            "locationCountryName": "Germany",
+            "locationDescription": "Munich exudes Bavarian charm. Beer fanatics should head immediately to the Hofbräuhaus, a hops heaven that’s been churning out the good stuff since 1589. The drinking is downright legendary during Oktoberfest, a celebration of local beers and German specialty foods. Emulate world-class athletes at the Olympiapark, where skating on the Olympic ice rink will make you feel like a champion. The promenade of Marienplatz is perfect for people watching and gawking at the Glockenspiele of City Hall.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "A compulsory 14 day quarantine applies when coming from the following EU countries: Sweden.",
+                "third": "Since late April, all federal states have required everyone to cover nose and mouth with an ordinary (non-medical) mask when using public transport and in shops. According to the Robert Koch Institute, wearing a mask can help reduce the risk of infection."
+            },
+            "image": "https://www.inlingua-muenchen.de/fileadmin/_processed_/9/3/csm_Muenchen_vor_Bergpanorama_ece282f748.jpg"
+        },
+        {
+            "locationName": "Paris",
+            "locationLat": "48.876297",
+            "locationLong": "2.358878",
+            "hasHike": "0",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,3,6,6,6,6,6,6,6,6,6,6,6],
+            "population": "2,148,000",
+            "locationCountryName": "France",
+            "locationDescription": "Nowhere else on earth makes the heart swoon like the mention of Paris. The city lures with its magnificent art, architecture, culture, and cuisine, but there’s also a quieter magic waiting to be explored: the quaint cobbled lanes, the sweet patisseries around the corner, and the cozy little bistros that beckon with a glass of Beaujolais. Get ready to make Paris your own.\n",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://www.tripsavvy.com/thmb/zn9PYFaVuN7IGDe3ibsOOmzCVjs=/2576x2576/smart/filters:no_upscale()/view-of-eiffel-tower-between-trees--paris--france-820243336-5acb7b5ea9d4f900374384ae.jpg"
+        },
+        {
+            "locationName": "Rodez",
+            "locationLat": "44.351131",
+            "locationLong": "2.573550",
+            "hasHike": "0",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [5,4,3,6,10,5,5,6,5,4,6,6,6,6],
+            "population": "24,000",
+            "locationCountryName": "France",
+            "locationDescription": "The cows moo, the birds screech, the sheep bleat, the crickets chirp and the water flows ... the perfect place to relax in the great outdoors.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://i.pinimg.com/originals/40/aa/c4/40aac443451ec94463a1d419f67c1f96.jpg"
+        },
+        {
+            "locationName": "Saint Etienne",
+            "locationLat": "45.439651",
+            "locationLong": "4.387810",
+            "hasHike": "0",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,4,4,6,7,5,5,6,6,5,6,6,6,6],
+            "population": "170,000",
+            "locationCountryName": "France",
+            "locationDescription": "This industrial city in eastern-central France isn’t on the map for many tourists. For most of its life Saint-Étienne has been a hotbed of mining and manufacturing, but is now reinventing itself as a hub for the arts: The Manufacture-Plaine-Achille is a whole district of former factories turned over to the creative industries.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cath%C3%A9drale_Saint-%C3%88tienne%2C_Sens-6998.jpg/1200px-Cath%C3%A9drale_Saint-%C3%88tienne%2C_Sens-6998.jpg",
+            "image2": "https://www.ultimatefrance.com/wp-content/sabai/File/files/l_a81d5f84646d538409b8e9faa9e54ed6.jpg",
+            "image3": "https://live.staticflickr.com/888/39366401350_f966b01b3b_b.jpg"
+        },
+        {
+            "locationName": "St.Moritz",
+            "locationLat": "46.497679",
+            "locationLong": "9.845281",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [3,3,4,5,6,5,4,6,5,4,6,6,6,6],
+            "population": "5,000",
+            "locationCountryName": "Switzerland",
+            "locationDescription": "Although commonly known as a winter location, when the first flowers bloom over the valley of St. Moritz, the whole area turns into an outdoor paradise again. From breathtaking summits to challenging mountain bike courses. From lakeside leisure to river rafting. Cable cars ascend to three nearby mountaintops allowing you to explore hundreds of miles of trails. And to cool down, follow the Romans example and try one of the city's mineral springs, such as St. Moritz Bader.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "For all EU/EFTA member States as well as UK the free movement of person is restored. As from 15 June, temperature checks will be carried out on all passengers arriving on direct flights from Sweden.",
+                "third": "No, however the use of masks is strongly recommended in places where physical distancing of 2 metres cannot be observed, such as in public transport."
+            },
+            "image": "https://github.com/TudorMaiereanu/get-a-way-backend/blob/master/images/St.Moritz1.jpg?raw=true",
+            "image2": "https://github.com/TudorMaiereanu/get-a-way-backend/blob/master/images/St.Moritz2.jpg?raw=true",
+            "image3": "https://github.com/TudorMaiereanu/get-a-way-backend/blob/master/images/St.Moritz3.jpg?raw=true"
+        },
+        {
+            "locationName": "Strasbourg",
+            "locationLat": "48.573406",
+            "locationLong": "7.752111",
+            "hasHike": "0",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,3,3,6,6,5,5,6,7,4,5,4,5,6],
+            "population": "277,000",
+            "locationCountryName": "France",
+            "locationDescription": "You view great wine as the essence of a good vacation. Your travel companion, however, is a beer aficionado. Will it be Paris or Munich? Stop arguing and go to Strasbourg, where you can have the best of French and German cuisine, including the booze. The entire central island is a World Heritage Site. Don’t miss the 12th-century cathedral or the storybook \"la Petite France\" neighborhood.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "No compulsory quarantine for travellers from EU, Schengen area and UK.",
+                "third": "Masks are recommended in certain situations and mandatory in others. Physical distancing measures of 1 metre and a protective mask for anyone over 11 years old are mandatory on public transport, in some shops (at the decision of the managers), in taxis, in restaurants, cafés."
+            },
+            "image": "http://www.commontoff.com/wp-content/uploads/2016/08/houses-1440x1440.jpg"
+        },
+        {
+            "locationName": "Titisee-Neustadt",
+            "locationLat": "47.911781",
+            "locationLong": "8.214160",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,3,4,6,7,5,6,6,7,4,6,5,5,6],
+            "population": "12,000",
+            "locationCountryName": "Germany",
+            "locationDescription": "Independent Black Forest locales dating back to medieval times, in 1971, Titisee and Neustadt (along with Rudenberg) banded together to form Titisee-Neustadt. (A few years later, nearby towns Langenordnach, Schwärzenbach and Waldau also joined the union.) Long known as a spa town, Titisee sits on the banks of the lake of the same name. Legend says the name came from Roman Emperor Titus, who was so taken by its beauty that he named it after himself. The area is great for hiking and winter sports.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "A compulsory 14 day quarantine applies when coming from the following EU countries: Sweden.",
+                "third": "Since late April, all federal states have required everyone to cover nose and mouth with an ordinary (non-medical) mask when using public transport and in shops. According to the Robert Koch Institute, wearing a mask can help reduce the risk of infection."
+            },
+            "image": "https://www.topin.travel/wp-content/themes/topin/uploadedImages/1519881603_Boot_auf_dem_Titisee_Bild2.jpg"
+        },
+        {
+            "locationName": "Zurich",
+            "locationLat": "47.377858",
+            "locationLong": "8.540324",
+            "hasHike": "1",
+            "hasSurf": "0",
+            "costValue": "Low",
+            "weatherList": [4,5,3,6,7,6,5,6,7,4,6,5,5,7],
+            "population": "400,000",
+            "locationCountryName": "Switzerland",
+            "locationDescription": "The largest city in Switzerland is a major contemporary art and shopping destination. Important artworks are displayed in the Kunsthaus and the Rietberg Museum, while those who consider shopping an art can hone their skills along Bahnhofstrasse and Niederdorf. Chagall's stained glass windows in the Fraumunster amaze and Zurich's 500 clubs and bars, including several in swimming pools, pulse with life 'til the early hours. This city on Lake Zurich has excellent public transit and a free bike rental system.",
+            "locationRegulations": {
+                "first": "Yes",
+                "second": "For all EU/EFTA member States as well as UK the free movement of person is restored. As from 15 June, temperature checks will be carried out on all passengers arriving on direct flights from Sweden.",
+                "third": "No, however the use of masks is strongly recommended in places where physical distancing of 2 metres cannot be observed, such as in public transport."
+            },
+            "image": "https://leger.imgix.net/Destinations/Switzerland_D4/Zurich_P3036/zurich-19612.jpg?fit=crop&crop=edges&w=1080&h=1080&auto=compress"
+        }
+    ],
+    "routes": [
+        {
+            "routeIndex": "0",
+            "weatherAverage": "6",
+            "coronaRisk": "High ",
+            "cost": "Medium Budget",
+            "hikeActivitiesNumber": "5",
+            "surfActivitiesNumber": "3",
+            "travelTime": "34",
+            "stopsList": ["Zurich", "Montpellier", "Barcelona", "Lyon" , "Geneva"],
+            "dayslist": [2,3,3,3,3],
+            "emission": "473"
+        },
+        {
+            "routeIndex": "1",
+            "weatherAverage": "6",
+            "coronaRisk": "Low ",
+            "cost": "Low Budget",
+            "hikeActivitiesNumber": "11",
+            "surfActivitiesNumber": "3",
+            "travelTime": "35",
+            "stopsList": ["Colmar","Avignon","Ceret","Barcelona","Mende", "Titisee-Neustadt"],
+            "dayslist": [2,1,3,3,2,3],
+            "emission": "519"
+        },
+        {
+            "routeIndex": "2",
+            "weatherAverage": "6",
+            "coronaRisk": "Moderate ",
+            "cost": "Low Budget",
+            "hikeActivitiesNumber": "9",
+            "surfActivitiesNumber": "3",
+            "travelTime": "42",
+            "stopsList": ["Mayrhofen","Bozen","Digne","Girona","Barcelona","Rodez","Chamonix"],
+            "dayslist": [2,2,1,2,3,2,2],
+            "emission": "549"
+        },
+        {
+            "routeIndex": "3",
+            "weatherAverage": "6",
+            "coronaRisk": "Moderate ",
+            "cost": "Low Budget",
+            "hikeActivitiesNumber": "2",
+            "surfActivitiesNumber": "9",
+            "travelTime": "46",
+            "stopsList": ["St.Moritz", "Genoa", "Marseille", "Barcelona" , "Bayonne", "Bordeaux", "Saint Etienne"],
+            "dayslist": [2,2,2,3,2,2,1],
+            "emission": "609"
+        },
+        {
+            "routeIndex": "4",
+            "weatherAverage": "6",
+            "coronaRisk": "High ",
+            "cost": "Medium Budget",
+            "hikeActivitiesNumber": "3",
+            "surfActivitiesNumber": "5",
+            "travelTime": "40",
+            "stopsList": ["Zurich", "Milan", "Avignon", "Barcelona", "Bordeaux", "Paris", "Strasbourg"],
+            "dayslist": [2,2,1,3,2,3,1],
+            "emission": "625"
+        }
+    ]
+}
